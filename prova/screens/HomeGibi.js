@@ -1,6 +1,7 @@
 // HomeGibi.js
 import React from "react";
 import { View, StyleSheet, Image } from "react-native";
+import { NavigationContainer } from "@react-navigation/native";
 import { Button, Title } from "react-native-paper";
 
 export function HomeGibi({ navigation }) {
